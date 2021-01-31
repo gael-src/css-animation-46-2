@@ -40,13 +40,11 @@ css-animation-46-2
 
 </br>
 
-**Disney 12 principles of animation:** </br>
-From the book: "Disney Animation: The Illusion of Life", Frank Thomas and Ollie Johnston, 1981. </br>
-https://the12principles.tumblr.com/ </br>
-https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation </br>
-https://www.creativebloq.com/advice/understand-the-12-principles-of-animation </br>
-https://uxdesign.cc/how-disney-conquered-the-animation-industry-with-these-12-principles-687acca99716 </br>
-https://www.youtube.com/watch?v=uDqjIdI4bF4&ab_channel=AlanBeckerTutorials </br>
+**CodePen Animations examples** </br>
+Just a few examples </br>
+https://codepen.io/tomad8/pen/VwaPOXR </br>
+https://codepen.io/jl1218/pen/oNzKvEx </br>
+https://codepen.io/tealab/pen/qBZaPmG </br>
 
 </br>
 
@@ -58,6 +56,13 @@ https://www.awwwards.com/ </br>
 
 **Just an animated website I like:** </br>
 https://www.spacex.com/
+
+</br>
+
+**Disney 12 principles of animation:** </br>
+From the book: "Disney Animation: The Illusion of Life", Frank Thomas and Ollie Johnston, 1981. </br>
+https://the12principles.tumblr.com/ </br>
+https://www.youtube.com/watch?v=uDqjIdI4bF4&ab_channel=AlanBeckerTutorials </br>
 
 </br>
 
