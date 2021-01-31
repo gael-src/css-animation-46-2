@@ -1,2 +1,104 @@
-# css-animation-46-2
-css-animation-46-2 exercises
+# CSS ANIMATION
+
+</br>
+
+## Exercise:
+
+Welcome, follow this link for the exercise, or below you can find a few unrelated suggestion.
+
+https://github.com/gael-src/css-animation-46-2/exercise/README-exercise.md
+
+</br>
+
+---
+
+### Structure:
+
+```
+css-animation-46-2
+│
+│─── index.html
+│─── style.css
+│─── reset.css
+│─── main.js
+│─── reset.css
+│─── README.md
+│
+└─── exercise
+     │
+     │─── README-exercise.md
+     └─── + pictures
+```
+
+</br>
+
+---
+
+</br></br>
+
+## Inspiration and Tips:
+
+</br>
+
+**Disney 12 principles of animation:** </br>
+
+From the book: "Disney Animation: The Illusion of Life", Frank Thomas and Ollie Johnston, 1981.
+
+https://the12principles.tumblr.com/ </br>
+https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation </br>
+https://www.creativebloq.com/advice/understand-the-12-principles-of-animation </br>
+https://uxdesign.cc/how-disney-conquered-the-animation-industry-with-these-12-principles-687acca99716 </br>
+https://www.youtube.com/watch?v=uDqjIdI4bF4&ab_channel=AlanBeckerTutorials </br>
+
+</br>
+
+**Web Design inspiration:** </br>
+
+Website Awards - Best Web Design Trends
+
+https://www.awwwards.com/ </br>
+
+</br>
+
+**Just an animated website I like:** </br>
+https://www.spacex.com/
+
+</br>
+
+**Learning resources bookmark page:** </br>
+
+I started a bookmark page with learning resources, it's not totally up to date but maybe you can find something useful. </br>
+https://bkz-src.com/browse/PAnr1Tg1lnXX8vY2k0cMC4k2o2i2 </br>
+
+</br>
+
+---
+
+</br></br>
+
+## Unrelated Stuff to watch:
+
+</br>
+
+**Conference from Chaos Computer Club** </br>
+https://www.youtube.com/watch?v=dTQAO7M5Gp8&ab_channel=media.ccc.de
+
+**The Internet's Own Boy: The Story of Aaron Swartz** </br>
+https://www.youtube.com/watch?v=3Q6Fzbgs_Lg&t=320s&ab_channel=Documentaries
+
+**The Art of Code - Dylan Beattie** </br>
+https://www.youtube.com/watch?v=6avJHaC3C2U&ab_channel=NDCConferences
+
+**AlphaGo - Deepmind** </br>
+https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind
+
+ </br>
+
+**Funny Mathematical stuff to research**
+
+Conway's Game of life </br>
+Cellular automata rule 30 </br>
+Mandelbrot set </br>
+Feigenbaum constants. </br>
+
+</br></br>
