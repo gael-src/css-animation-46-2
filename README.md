@@ -52,8 +52,7 @@ https://www.youtube.com/watch?v=uDqjIdI4bF4&ab_channel=AlanBeckerTutorials </br>
 </br>
 
 **Web Design inspiration:** </br>
-Website Awards - Best Web Design Trends
-
+Website Awards - Best Web Design Trends </br>
 https://www.awwwards.com/ </br>
 
 </br>
