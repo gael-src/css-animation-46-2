@@ -2,7 +2,7 @@
 
 ![header](header.gif)
 
-</br>
+</br></br>
 
 ## Exercise
 
@@ -13,6 +13,8 @@ https://github.com/gael-src/css-animation-46-2/blob/main/exercise/README-exercis
 </br>
 
 ---
+
+</br></br>
 
 ### Structure
 
