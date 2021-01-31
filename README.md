@@ -41,7 +41,6 @@ css-animation-46-2
 </br>
 
 **Disney 12 principles of animation:** </br>
-
 From the book: "Disney Animation: The Illusion of Life", Frank Thomas and Ollie Johnston, 1981.
 
 https://the12principles.tumblr.com/ </br>
@@ -53,7 +52,6 @@ https://www.youtube.com/watch?v=uDqjIdI4bF4&ab_channel=AlanBeckerTutorials </br>
 </br>
 
 **Web Design inspiration:** </br>
-
 Website Awards - Best Web Design Trends
 
 https://www.awwwards.com/ </br>
@@ -66,7 +64,6 @@ https://www.spacex.com/
 </br>
 
 **Learning resources bookmark page:** </br>
-
 I started a bookmark page with learning resources, it's not totally up to date but maybe you can find something useful. </br>
 https://bkz-src.com/browse/PAnr1Tg1lnXX8vY2k0cMC4k2o2i2 </br>
 
