@@ -1,4 +1,4 @@
-console.log("Hello FbW46-2");
+console.log("Hello 46-2");
 
 // console.log(
 // 	"This code does the same as: <div class=parent><div class=child></div></div>"
