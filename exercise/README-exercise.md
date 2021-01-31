@@ -54,12 +54,12 @@ CSS
 
 **Step 3**
 
-CSS
-
 - Add a `transition` and specify the duration of animation for smoother effect. </br>
 - Default value of transition will be `all` but we want to specify `transform`. </br>
   Transition contain: `transition-property`, `transition-delay`, `transition-duration`, `transition-timing-function`... </br>
 - We could also specify the transition in `.parent:hover .child` instead of `.child`, or anywhere we want. </br>
+
+CSS
 
 ```
 .child {
