@@ -40,7 +40,7 @@ CSS
 **Step 2**
 
 Move the child div from top left corner to the top right corner of the parent div, using transform translate. </br>
-**Tipp** Be careful with "%", it works in this case because the child is half size of the parent.s </br>
+**Tipp** Be careful with "%", it works in this case because the child is half size of the parent. </br>
 
 CSS
 
