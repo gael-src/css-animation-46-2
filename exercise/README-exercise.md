@@ -40,7 +40,7 @@ CSS
 **Step 2**
 
 - Move the child div from top left corner to the top right corner of the parent div, using transform translate. </br>
-  **Tipp** Be careful with `%`, it works in this case because the child is half size of the parent. </br>
+- **Tipp:** Be careful with `%`, it works in this case because the child is half size of the parent. </br>
 
 CSS
 
@@ -56,10 +56,10 @@ CSS
 
 CSS
 
-Add a `transition` and specify the duration of animation for smoother effect. </br>
-Default value of transition will be `all` but we want to specify `transform`. </br>
-Transition contain: `transition-property`, `transition-delay`, `transition-duration`, `transition-timing-function`... </br>
-We could also specify the transition in `.parent:hover .child` instead of `.child`, or anywhere we want. </br>
+- Add a `transition` and specify the duration of animation for smoother effect. </br>
+- Default value of transition will be `all` but we want to specify `transform`. </br>
+  Transition contain: `transition-property`, `transition-delay`, `transition-duration`, `transition-timing-function`... </br>
+- We could also specify the transition in `.parent:hover .child` instead of `.child`, or anywhere we want. </br>
 
 ```
 .child {
@@ -71,9 +71,9 @@ We could also specify the transition in `.parent:hover .child` instead of `.chil
 
 **Step 4**
 
-Choose a duration behavior, `ease`, `ease-out`, `ease-in-out`... </br>
-Default value is `linear`.</br>
-Select the child element in your browser developer tools and click on the curve icon to get the `cubic bezier` editor. </br>
+- Choose a duration behavior, `ease`, `ease-out`, `ease-in-out`... </br>
+- Default value is `linear`.</br>
+- Select the child element in your browser developer tools and click on the curve icon to get the `cubic bezier` editor. </br>
 
 https://cubic-bezier.com/
 
@@ -89,7 +89,7 @@ CSS
 
 **Step 5**
 
-Make it bounce out.</br>
+- Make it bounce out.</br>
 
 CSS
 
@@ -103,8 +103,8 @@ CSS
 
 **Step 6**
 
-Let's now make it more interesting, we can do the same using a css `animation` instead of `transition`. </br>
-First uncomment those lines: </br>
+- Let's now make it more interesting, we can do the same using a css `animation` instead of `transition`. </br>
+- First uncomment those lines: </br>
 
 CSS
 
@@ -123,11 +123,11 @@ parent:hover .child {
 
 **Step 7**
 
-On the hover, create a css `animation`, name it `left-to-right` or anything you want. Specify, `1s` and `ease-in-out` for duration and behavior. </br>
-Then declare your function `left-to-right`, using `@keyframe`. </br>
-The keyframe is declared on it's own in the CSS, same as you would declare a `@media` query. </br>
-In the keyframe we can now decide what happen at `100%`. </br>
-Default of `0%` is what we declared before. </br>
+- On the hover, create a css `animation`, name it `left-to-right` or anything you want. Specify, `1s` and `ease-in-out` for duration and behavior. </br>
+- Then declare your function `left-to-right`, using `@keyframe`. </br>
+- The keyframe is declared on it's own in the CSS, same as you would declare a `@media` query. </br>
+- In the keyframe we can now decide what happen at `100%`. </br>
+- Default of `0%` is what we declared before. </br>
 
 CSS
 
@@ -147,7 +147,7 @@ CSS
 
 **Step 8**
 
-Specify `forwards` for the animation to stay in state, instead of jumping back to initial position. `forwards` come from `animation-fill-mode`. </br>
+- Specify `forwards` for the animation to stay in state, instead of jumping back to initial position. `forwards` come from `animation-fill-mode`. </br>
 
 CSS
 
@@ -162,7 +162,7 @@ CSS
 
 **Step 9**
 
-Move it in a circle, adding `0%`, `33%`, `66%` and give them a position. </br>
+- Move it in a circle, adding `0%`, `33%`, `66%` and give them a position. </br>
 
 CSS
 
@@ -187,7 +187,7 @@ CSS
 
 **Step 10**
 
-Finally, add `infinite` or specify how many times.
+- Finally, add `infinite` or specify how many times.
 
 CSS
 
@@ -201,16 +201,16 @@ CSS
 
 **Challenge:**
 
-Make the `child` come back to his starting point instead of top right corner of the "parent".
+- Make the `child` come back to his starting point instead of top right corner of the "parent".
 
 </br></br>
 
 **Bonus:**
 
-Change background colors. </br>
-Try changing direction with `alternate`. </br>
-Move the animation to the `child` instead of `hover`. And pause it on hover. </br>
-Chain up different animation using `animation-duration` and `animation-delay`</br>
+- Change background colors. </br>
+- Try changing direction with `alternate`. </br>
+- Move the animation to the `child` instead of `hover`. And pause it on hover. </br>
+- Chain up different animation using `animation-duration` and `animation-delay`</br>
 
 ```
 .child {
