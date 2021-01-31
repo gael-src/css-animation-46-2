@@ -96,9 +96,9 @@ https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind
 
 **Funny Mathematical stuff to research**
 
-Conway's Game of life </br>
-Cellular automata rule 30 </br>
-Mandelbrot set </br>
-Feigenbaum constants. </br>
+- Conway's Game of life </br>
+- Cellular automata rule 30 </br>
+- Mandelbrot set </br>
+- Feigenbaum constants. </br>
 
 </br></br>
