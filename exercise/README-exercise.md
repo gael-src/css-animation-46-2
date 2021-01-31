@@ -264,8 +264,6 @@ https://css-tricks.com/almanac/properties/a/animation/
 
 ![easing](easing.jpg)
 
-**Browser Easing**
-
 ![easing-gif](easing-gif.gif)
 
 </br></br>
