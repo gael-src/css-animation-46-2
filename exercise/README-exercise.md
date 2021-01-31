@@ -201,7 +201,7 @@ CSS
 
 **Challenge:**
 
-- Make the `child` come back to his starting point instead of top right corner of the "parent".
+- Make the `child` come back to his starting point instead of top right corner of the `parent`.
 
 </br></br>
 
