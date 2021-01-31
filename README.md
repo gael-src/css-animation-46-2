@@ -1,5 +1,7 @@
 # CSS ANIMATION
 
+![header](header.gif)
+
 </br>
 
 ## Exercise:
