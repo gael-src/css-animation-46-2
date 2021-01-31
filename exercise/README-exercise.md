@@ -210,7 +210,7 @@ CSS
 - Change background colors. </br>
 - Try changing direction with `alternate`. </br>
 - Move the animation to the `child` instead of `hover`. And pause it on hover. </br>
-- Chain up different animation using `animation-duration` and `animation-delay`</br>
+- **Advanced:** Chain up different animation using `animation-duration` and `animation-delay`</br>
 
 ```
 .child {
