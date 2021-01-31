@@ -104,7 +104,7 @@ CSS
 **Step 6**
 
 - Let's now make it more interesting, we can do the same using a css `animation` instead of `transition`. </br>
-- First uncomment those lines: </br>
+- First comment out or delete those lines: </br>
 
 CSS
 
