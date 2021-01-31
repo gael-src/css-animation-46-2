@@ -6,7 +6,7 @@
 
 Welcome, follow this link for the exercise, or below you can find a few unrelated suggestion.
 
-https://github.com/gael-src/css-animation-46-2/exercise/README-exercise.md
+https://github.com/gael-src/css-animation-46-2/blob/main/exercise/README-exercise.md
 
 </br>
 
@@ -41,8 +41,7 @@ css-animation-46-2
 </br>
 
 **Disney 12 principles of animation:** </br>
-From the book: "Disney Animation: The Illusion of Life", Frank Thomas and Ollie Johnston, 1981.
-
+From the book: "Disney Animation: The Illusion of Life", Frank Thomas and Ollie Johnston, 1981. </br>
 https://the12principles.tumblr.com/ </br>
 https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation </br>
 https://www.creativebloq.com/advice/understand-the-12-principles-of-animation </br>
