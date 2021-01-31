@@ -236,11 +236,11 @@ https://www.youtube.com/watch?v=YszONjKpgg4&ab_channel=WebDevSimplified
 
 **The usuals:**
 
+https://css-tricks.com/almanac/properties/a/animation/
+
+https://www.w3schools.com/css/css3_animations.asp
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
-
-https://css-tricks.com/almanac/properties/a/animation/
-
-https://css-tricks.com/almanac/properties/a/animation/
 
 ---
 
