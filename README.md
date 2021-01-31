@@ -38,7 +38,7 @@ css-animation-46-2
 
 </br></br>
 
-## Inspiration and Tips:
+## Inspiration and Tips
 
 </br>
 
