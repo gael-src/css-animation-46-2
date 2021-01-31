@@ -1,7 +1,7 @@
 console.log("Hello 46-2");
 
 // console.log(
-// 	"This code does the same as: <div class=parent><div class=child></div></div>"
+// 	"Uncomment me and I will do the same as: <div class=parent><div class=child></div></div>"
 // );
 
 // window.addEventListener("DOMContentLoaded", function () {
