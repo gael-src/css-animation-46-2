@@ -41,7 +41,7 @@ css-animation-46-2
 </br>
 
 **CodePen Animations examples** </br>
-Just a few examples </br>
+Just some nice animations. </br>
 https://codepen.io/tomad8/pen/VwaPOXR </br>
 https://codepen.io/jl1218/pen/oNzKvEx </br>
 https://codepen.io/tealab/pen/qBZaPmG </br>
@@ -49,7 +49,7 @@ https://codepen.io/tealab/pen/qBZaPmG </br>
 </br>
 
 **Web Design inspiration:** </br>
-Website Awards - Best Web Design Trends </br>
+Website Awards - Best Web Design Trends. </br>
 https://www.awwwards.com/ </br>
 
 </br>
