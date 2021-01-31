@@ -4,7 +4,7 @@
 
 </br>
 
-## Exercise:
+## Exercise
 
 Welcome, follow this link for the exercise, or below you can find a few unrelated suggestion.
 
@@ -14,7 +14,7 @@ https://github.com/gael-src/css-animation-46-2/blob/main/exercise/README-exercis
 
 ---
 
-### Structure:
+### Structure
 
 ```
 css-animation-46-2
@@ -42,7 +42,7 @@ css-animation-46-2
 
 </br>
 
-**CodePen examples:** </br>
+**CodePen examples** </br>
 Just some nice animations. </br>
 https://codepen.io/tomad8/pen/VwaPOXR </br>
 https://codepen.io/jl1218/pen/oNzKvEx </br>
@@ -50,25 +50,25 @@ https://codepen.io/tealab/pen/qBZaPmG </br>
 
 </br>
 
-**Web Design inspiration:** </br>
+**Web Design inspiration** </br>
 Website Awards - Best Web Design Trends. </br>
 https://www.awwwards.com/ </br>
 
 </br>
 
-**Just an animated website I like:** </br>
+**Just an animated website I like** </br>
 https://www.spacex.com/
 
 </br>
 
-**Disney 12 principles of animation:** </br>
+**Disney 12 principles of animation** </br>
 From the book: "Disney Animation: The Illusion of Life", Frank Thomas and Ollie Johnston, 1981. </br>
 https://the12principles.tumblr.com/ </br>
 https://www.youtube.com/watch?v=uDqjIdI4bF4&ab_channel=AlanBeckerTutorials </br>
 
 </br>
 
-**Learning resources bookmark page:** </br>
+**Learning resources bookmark page** </br>
 I started a bookmark page with learning resources, it's not totally up to date but maybe you can find something useful. </br>
 https://bkz-src.com/browse/PAnr1Tg1lnXX8vY2k0cMC4k2o2i2 </br>
 
@@ -78,7 +78,7 @@ https://bkz-src.com/browse/PAnr1Tg1lnXX8vY2k0cMC4k2o2i2 </br>
 
 </br></br>
 
-## Unrelated Stuff to watch:
+## Unrelated Stuff to watch
 
 </br>
 

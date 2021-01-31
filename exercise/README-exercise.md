@@ -199,13 +199,13 @@ CSS
 
 </br></br>
 
-**Challenge:**
+**Challenge**
 
 - Make the `child` come back to his starting point instead of top right corner of the `parent`.
 
 </br></br>
 
-**Bonus:**
+**Bonus**
 
 - Change background colors. </br>
 - Try changing direction with `alternate`. </br>
@@ -224,17 +224,17 @@ CSS
 
 </br></br>
 
-## Resources:
+## Resources
 
 </br>
 
-**Original Video from Web Dev Simplified:**
+**Original Video from Web Dev Simplified**
 
 https://www.youtube.com/watch?v=YszONjKpgg4&ab_channel=WebDevSimplified
 
 </br></br>
 
-**The usuals:**
+**The usuals**
 
 https://css-tricks.com/almanac/properties/a/animation/
 
@@ -270,7 +270,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animat
 
 </br></br>
 
-**Summary:**
+**Summary**
 
 https://docs.google.com/presentation/d/1wtlUZ0gW7a5SwJIcN_32Wqm3QLBE1_c7QJbEO8tJZLs/edit?usp=sharing
 
