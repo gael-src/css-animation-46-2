@@ -234,8 +234,6 @@ https://cssbattle.dev/battle/1
 
 </br></br>
 
-</br>
-
 **Good Exercises**
 
 https://www.youtube.com/watch?v=YszONjKpgg4&ab_channel=WebDevSimplified
@@ -251,6 +249,8 @@ https://css-tricks.com/almanac/properties/a/animation/
 https://www.w3schools.com/css/css3_animations.asp
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+
+</br>
 
 ---
 
