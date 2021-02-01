@@ -230,13 +230,13 @@ CSS
 
 **Original Video from Web Dev Simplified**
 
-https://cssbattle.dev/battle/1
+https://www.youtube.com/watch?v=YszONjKpgg4&ab_channel=WebDevSimplified
 
 </br></br>
 
 **Good Exercises**
 
-https://www.youtube.com/watch?v=YszONjKpgg4&ab_channel=WebDevSimplified
+https://cssbattle.dev/battle/1
 
 https://codepen.io/jorgecardoso/post/1-css-transitions-and-animations
 
