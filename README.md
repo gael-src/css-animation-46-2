@@ -6,7 +6,7 @@
 
 ## Exercise
 
-Welcome, follow this link for the exercise, or below you can find a few unrelated suggestion.
+Welcome, follow this link for the exercise, or below you can find a few unrelated suggestions.
 
 https://github.com/gael-src/css-animation-46-2/blob/main/exercise/README-exercise.md
 
@@ -45,7 +45,7 @@ css-animation-46-2
 </br>
 
 **CodePen examples** </br>
-Just some nice animations. </br>
+Some nice animations. </br>
 https://codepen.io/tomad8/pen/VwaPOXR </br>
 https://codepen.io/jl1218/pen/oNzKvEx </br>
 https://codepen.io/tealab/pen/qBZaPmG </br>
@@ -58,7 +58,7 @@ https://www.awwwards.com/ </br>
 
 </br>
 
-**Just an animated website I like** </br>
+**A simple animated website I like** </br>
 https://www.spacex.com/
 
 </br>
