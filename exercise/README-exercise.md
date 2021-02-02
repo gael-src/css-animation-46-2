@@ -57,7 +57,7 @@ CSS
 - Add a `transition` and specify the duration of the animation for a smoother effect. </br>
 - The default value of transition will be `all` but we want to specify `transform`. </br>
 - We could also specify the transition in `.parent:hover .child` instead of `.child`, or anywhere we want. </br>
-- `transition` contain: `transition-property`, `transition-delay`, `transition-duration`, `transition-timing-function`... </br>
+- `transition` contain: `transition-property`, `transition-delay`, `transition-duration`, `transition-timing-function`, etc... </br>
 
 CSS
 
@@ -128,7 +128,7 @@ parent:hover .child {
 - The keyframe is declared on it's own in the CSS, same as you would declare a `@media` query. </br>
 - In the keyframe we can now decide what happen at `100%`. </br>
 - The default of `0%` is what we declared before, if not specified. </br>
-- `animation` contain: `animation-name`, `animation-duration`, `animation-delay`, `animation-fill-mode`, `animation-play-state`... </br>
+- `animation` contain: `animation-name`, `animation-duration`, `animation-delay`, `animation-fill-mode`, `animation-play-state`, etc... </br>
 
 CSS
 
