@@ -40,7 +40,7 @@ CSS
 **Step 2**
 
 - Move the child div from the top left corner to the top right corner of the parent div, using `transform` and `translateX`. </br>
-- **Tipp:** Be careful with `%`, it works in this case because the child div is half the size of the parent div. </br>
+- **Tip:** Be careful with `%`, it works in this case because the child div is half the size of the parent div. </br>
 
 CSS
 
@@ -125,7 +125,7 @@ parent:hover .child {
 
 - On the hover, create a css `animation`, name it `left-to-right` or anything you want. For duration and behavior specify `1s` and `ease-in-out`. </br>
 - Then declare your function `left-to-right`, using `@keyframe`. </br>
-- The keyframe is declared on it's own in the CSS, same as you would declare a `@media` query. </br>
+- The keyframe is declared on its own in the CSS, same as you would declare a `@media` query. </br>
 - In the keyframe we can now decide what happen at `100%`. </br>
 - The default of `0%` is what we declared before, if not specified. </br>
 - `animation` contain: `animation-name`, `animation-duration`, `animation-delay`, `animation-fill-mode`, `animation-play-state`, etc... </br>
