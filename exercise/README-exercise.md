@@ -163,7 +163,7 @@ CSS
 
 **Step 9**
 
-- Now we want to move it in a circle, adding `0%`, `33%`, `66%` and according positions. </br>
+- Now we want to move it in a circle, adding `0%`, `33%`, `66%` together with according positions. </br>
 
 CSS
 
